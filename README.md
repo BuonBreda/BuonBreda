@@ -10,6 +10,11 @@ A passionate frontend developer from Italy
 * 🔭  I’m currently working at [Cloud Phoenix](https://cloudphoenix.it)
 * 🧠  I'm learning React
 
+<img
+  src="https://github.com/Buonbreda/BuonBreda/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
+
 ### Skills
 
 <p align="left">
