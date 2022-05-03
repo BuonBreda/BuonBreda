@@ -47,5 +47,3 @@ A passionate frontend developer from Italy
 <a href="http://www.github.com/BuonBreda"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BuonBreda&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/BuonBreda"><img src="https://activity-graph.herokuapp.com/graph?username=BuonBreda&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/BuonBreda" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuonBreda&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
