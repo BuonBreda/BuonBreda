@@ -10,11 +10,6 @@ A passionate frontend developer from Italy
 * 🔭  I’m currently working at [Cloud Phoenix](https://cloudphoenix.it)
 * 🧠  I'm learning React
 
-<img
-  src="https://github.com/Buonbreda/BuonBreda/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
-
 ### Skills
 
 <p align="left">
@@ -52,3 +47,8 @@ A passionate frontend developer from Italy
 <a href="http://www.github.com/BuonBreda"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BuonBreda&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/BuonBreda"><img src="https://activity-graph.herokuapp.com/graph?username=BuonBreda&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<img
+  src="https://github.com/Buonbreda/BuonBreda/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
