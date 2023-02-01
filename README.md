@@ -8,7 +8,7 @@ A passionate frontend developer from Italy
 * 🖥️  See my portfolio at [andreabreda.it](http://andreabreda.it)
 * ✉️  You can contact me at [andreabreda1990@gmail.com](mailto:andreabreda1990@gmail.com)
 * 🔭  I’m currently working at [Cloud Phoenix](https://cloudphoenix.it)
-* 🧠  I'm learning React
+* 🧠  I'm learning React Native
 
 ### Skills
 
