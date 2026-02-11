@@ -27,68 +27,29 @@ const andrea = {
 
 ### ⚡ Tech Stack
 
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=ts" width="40" /><br><b>TypeScript</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=react" width="40" /><br><b>React</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br><b>Next.js</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=js" width="40" /><br><b>JavaScript</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=go" width="40" /><br><b>Go</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br><b>Node.js</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br><b>Tailwind</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=sass" width="40" /><br><b>Sass</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=materialui" width="40" /><br><b>MUI</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br><b>MongoDB</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=docker" width="40" /><br><b>Docker</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=figma" width="40" /><br><b>Figma</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=git" width="40" /><br><b>Git</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=redux" width="40" /><br><b>Redux</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=html" width="40" /><br><b>HTML5</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=css" width="40" /><br><b>CSS3</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=github" width="40" /><br><b>GitHub</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=vscode" width="40" /><br><b>VS Code</b>
-</td>
-</tr>
-</table>
+**Frontend & Frameworks**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,ts,js,html,css" />
+</p>
+
+**Styling & UI**
+
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind,sass,materialui" />
+</p>
+
+**State Management & Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=redux,git,github,figma,vscode,docker" />
+</p>
+
+**Backend & Other**
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,nodejs,mongodb" />
+</p>
 
 ---
 
@@ -104,14 +65,9 @@ We build tools that help businesses streamline operations, monitor performance, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BuonBreda&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BuonBreda&theme=github-dark-blue&hide_border=true&background=0d1117" width="48%" />
+![BuonBreda's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuonBreda&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuonBreda&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" width="40%" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuonBreda&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8)
 
 </div>
 
