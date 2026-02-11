@@ -1,51 +1,124 @@
-# Hi 👋 My name is Andrea Breda
-### Frontend Developer
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=BuonBreda&label=Profile%20views&color=0e76a8&style=flat" alt="BuonBreda" />
-</p>
+# Hey, I'm Andrea 👋
 
----
+### Frontend Developer · Building digital products at [Cloud Phoenix](https://cloudphoenix.it) 🔥
 
-### 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/-buonbreda-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/buonbreda)
+[![Portfolio](https://img.shields.io/badge/-andreabreda.it-000?style=flat&logo=google-chrome&logoColor=white)](http://andreabreda.it)
+[![Email](https://img.shields.io/badge/-andreabreda1990@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:andreabreda1990@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=BuonBreda&color=blueviolet&style=flat)](https://github.com/BuonBreda)
 
-I am a **Frontend Programmer** based in Milan, currently working at [Cloudphoenix](https://cloudphoenix.it). I am dedicated to building performant, scalable, and user-centric web applications.
-
-* 🌍 **Location:** Based in Milan, Italy.
-* 💻 **Expertise:** Specialized in modern JavaScript frameworks and responsive design.
-* 🔭 **Currently:** Working on advanced frontend architectures and expanding my skills in **React Native** for cross-platform development.
-* 🧠 **Learning:** Deepening my knowledge of mobile development and performance optimization.
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-| Area | Technologies |
-| --- | --- |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| **Styling** | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) |
-| **Backend/Misc** | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Design/Tools** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BuonBreda&show_icons=true&theme=tokyonight&count_private=true" alt="Andrea's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuonBreda&theme=tokyonight" alt="Streak Stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=BuonBreda&theme=tokyo-night&area=true&hide_border=true" width="100%" />
-</p>
+```typescript
+const andrea = {
+  location: "Milan, Italy 🇮🇹",
+  role: "Frontend Developer @ Cloud Phoenix",
+  languages: ["TypeScript", "JavaScript", "Go"],
+  focus: ["Web Applications", "Frontend Architecture", "Cross-Platform Mobile"],
+  currentlyLearning: "React Native",
+};
+```
 
 ---
 
-### 📫 Connect with me
+### ⚡ Tech Stack
 
-<p align="left">
-  <a href="https://linkedin.com/in/buonbreda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:andreabreda1990@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="http://andreabreda.it" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=ts" width="40" /><br><b>TypeScript</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=react" width="40" /><br><b>React</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br><b>Next.js</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=js" width="40" /><br><b>JavaScript</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=go" width="40" /><br><b>Go</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br><b>Node.js</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br><b>Tailwind</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=sass" width="40" /><br><b>Sass</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=materialui" width="40" /><br><b>MUI</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br><b>MongoDB</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=docker" width="40" /><br><b>Docker</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=figma" width="40" /><br><b>Figma</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=git" width="40" /><br><b>Git</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=redux" width="40" /><br><b>Redux</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=html" width="40" /><br><b>HTML5</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=css" width="40" /><br><b>CSS3</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=github" width="40" /><br><b>GitHub</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=vscode" width="40" /><br><b>VS Code</b>
+</td>
+</tr>
+</table>
+
+---
+
+### 🏢 About Cloud Phoenix
+
+I'm part of the team at **[Cloud Phoenix](https://cloudphoenix.it)**, a software house based in Italy focused on designing and developing innovative digital solutions — from custom web platforms to SaaS products and data-driven applications.
+
+We build tools that help businesses streamline operations, monitor performance, and scale with confidence.
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BuonBreda&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BuonBreda&theme=github-dark-blue&hide_border=true&background=0d1117" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuonBreda&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" width="40%" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Crafting pixel-perfect interfaces, one component at a time.* ✨
+
+</div>
