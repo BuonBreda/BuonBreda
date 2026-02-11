@@ -17,7 +17,7 @@
 const andrea = {
   location: "Milan, Italy 🇮🇹",
   role: "Frontend Developer @ Cloud Phoenix",
-  languages: ["TypeScript", "JavaScript", "Go"],
+  languages: ["TypeScript", "JavaScript"],
   focus: ["Web Applications", "Frontend Architecture", "Cross-Platform Mobile"],
   currentlyLearning: "React Native",
 };
@@ -64,11 +64,19 @@ We build tools that help businesses streamline operations, monitor performance, 
 ### 📊 Stats
 
 <div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=BuonBreda&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&cache_seconds=86400" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=BuonBreda&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BuonBreda&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&cache_seconds=86400" alt="BuonBreda's GitHub stats" />
+</picture>
+</div>
 
-![BuonBreda's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuonBreda&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuonBreda&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8)
-
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BuonBreda&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8&cache_seconds=86400" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BuonBreda&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=86400" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BuonBreda&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8&cache_seconds=86400" alt="Top Langs" />
+</picture>
 </div>
 
 ---
