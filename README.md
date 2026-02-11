@@ -17,7 +17,7 @@
 const andrea = {
   location: "Milan, Italy 🇮🇹",
   role: "Frontend Developer @ Cloud Phoenix",
-  languages: ["TypeScript", "JavaScript"],
+  languages: ["React", "TypeScript", "JavaScript"],
   focus: ["Web Applications", "Frontend Architecture", "Cross-Platform Mobile"],
   currentlyLearning: "React Native",
 };
